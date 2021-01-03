@@ -1,0 +1,13 @@
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.csprojAssemblyReference.cache
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.AssemblyInfoInputs.cache
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.AssemblyInfo.cs
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.csproj.CoreCompileInputs.cache
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.exe
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.deps.json
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.runtimeconfig.json
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.runtimeconfig.dev.json
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.dll
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp3.1\DaysOfWeek.pdb
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.dll
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.pdb
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\M4- Resizing collection with Lists\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp3.1\DaysOfWeek.genruntimeconfig.cache

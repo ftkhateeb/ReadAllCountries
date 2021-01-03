@@ -1,0 +1,13 @@
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\bin\Debug\netcoreapp3.1\TopTenCountries.exe
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\bin\Debug\netcoreapp3.1\TopTenCountries.deps.json
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\bin\Debug\netcoreapp3.1\TopTenCountries.runtimeconfig.json
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\bin\Debug\netcoreapp3.1\TopTenCountries.runtimeconfig.dev.json
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\bin\Debug\netcoreapp3.1\TopTenCountries.dll
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\bin\Debug\netcoreapp3.1\TopTenCountries.pdb
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\obj\Debug\netcoreapp3.1\TopTenCountries.csprojAssemblyReference.cache
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\obj\Debug\netcoreapp3.1\TopTenCountries.AssemblyInfoInputs.cache
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\obj\Debug\netcoreapp3.1\TopTenCountries.AssemblyInfo.cs
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\obj\Debug\netcoreapp3.1\TopTenCountries.csproj.CoreCompileInputs.cache
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\obj\Debug\netcoreapp3.1\TopTenCountries.dll
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\obj\Debug\netcoreapp3.1\TopTenCountries.pdb
+D:\PluralSight\C# Track\Beginning C# Collections\My Code\TopTenCountries\TopTenCountries\obj\Debug\netcoreapp3.1\TopTenCountries.genruntimeconfig.cache
